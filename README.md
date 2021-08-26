@@ -8,7 +8,7 @@ Procuro aprimorar cada vez mais minhas competencias em programação e aqui poss
 #### Languagens
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/java-512.png" width="30" align="left" /> 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/python-512.png" width="35" align="left" /> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/lua-512.png" width="35" align="left" /> 
-<img src="https://cdn0.iconfinder.com/data/icons/file-formats-vol-3/100/59-512.png" width="35" align="left/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/lua-512.png" width="35" align="left" />
+<img src="https://cdn0.iconfinder.com/data/icons/file-formats-vol-3/100/59-512.png" width="35" align="left" /> 
 
 
